@@ -1,4 +1,0 @@
-﻿  LAB3_2.c
-C:\Users\손채연\Desktop\LAB3\LAB3_2\LAB3_2.c(6,26): warning C4101: 'minute' :참조되지 않은 지역 변수입니다.
-C:\Users\손채연\Desktop\LAB3\LAB3_2\LAB3_2.c(6,20): warning C4101: 'hour' :참조되지 않은 지역 변수입니다.
-  LAB3_2.vcxproj -> C:\Users\손채연\Desktop\LAB3\x64\Debug\LAB3_2.exe

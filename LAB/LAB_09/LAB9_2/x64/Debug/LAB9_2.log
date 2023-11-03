@@ -1,0 +1,4 @@
+﻿  LAB9_2.c
+C:\Users\손채연\Desktop\3학년\3-1\프로그래밍논리의이해\LAB\LAB_09\LAB9_2\LAB9_2.c(6,2): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\손채연\Desktop\3학년\3-1\프로그래밍논리의이해\LAB\LAB_09\LAB9_2\LAB9_2.c(11,14): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LAB9_2.vcxproj -> C:\Users\손채연\Desktop\3학년\3-1\프로그래밍논리의이해\LAB\LAB_09\x64\Debug\LAB9_2.exe

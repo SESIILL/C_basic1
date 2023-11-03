@@ -1,0 +1,3 @@
+﻿  challenge13c.c
+C:\Users\손채연\Desktop\3학년\3-1\프로그래밍논리의이해\HW\HW_13B\challenge13c\challenge13c.c(9,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  challenge13c.vcxproj -> C:\Users\손채연\Desktop\3학년\3-1\프로그래밍논리의이해\HW\HW_13B\x64\Debug\challenge13c.exe
